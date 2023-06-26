@@ -1,0 +1,8 @@
+{
+  "short_name": "YamanotesenGame App",
+  "name": "山手線の路線をランダムで選出してくれる App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

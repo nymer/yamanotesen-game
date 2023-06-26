@@ -1,0 +1,95 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore specific directories
+Pictures/Photos Library.photoslibrary/
+Library/Application Support/CallHistoryTransactions/
+Library/Application Support/CloudDocs/session/db/
+Library/Application Support/com.apple.sharedfilelist/
+Library/Application Support/Knowledge/
+Library/Application Support/com.apple.TCC/
+Library/Application Support/FileProvider/
+Library/Application Support/AddressBook/
+Library/Application Support/FaceTime/
+Library/Application Support/com.apple.avfoundation/Frecents/
+Library/Application Support/CallHistoryDB/
+Library/Assistant/SiriVocabulary/
+Library/Autosave Information/
+Library/IdentityServices/
+Library/Calendars/
+Library/Messages/
+Library/HomeKit/
+Library/Sharing/
+Library/com.apple.aiml.instrumentation/
+Library/Mail/
+Library/Trial/
+Library/AppleMediaServices/
+Library/DuetExpertCenter/
+Library/Accounts/
+Library/Safari/
+Library/Biome/
+Library/IntelligencePlatform/
+Library/Shortcuts/
+Library/Suggestions/
+Library/Weather/
+Library/Group Containers/group.com.apple.secure-control-center-preferences/
+Library/Group Containers/group.com.apple.notes/
+Library/Containers/com.apple.VoiceMemos/
+Library/Containers/com.apple.archiveutility/
+Library/Containers/com.apple.Maps/Data/Maps/
+Library/Containers/com.apple.Home/
+Library/Containers/com.apple.Safari/
+Library/Containers/com.apple.iChat/
+Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/
+Library/Containers/com.apple.mail/
+Library/Containers/com.apple.Notes/
+Library/Containers/com.apple.news/
+Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/
+Library/Containers/com.apple.stocks/
+Library/PersonalizationPortrait/
+Library/Photos/Libraries/Syndication.photoslibrary/
+Library/Metadata/CoreSpotlight/
+Library/Metadata/com.apple.IntelligentSuggestions/
+Library/Cookies/
+Library/CoreFollowUp/
+Library/StatusKit/
+Library/DoNotDisturb/
+Library/Caches/com.apple.HomeKit/
+Library/Caches/com.apple.HomeKit.configurations/
+Library/Caches/CloudKit/
+Library/Caches/com.apple.Safari/
+Library/Caches/com.apple.findmy.fmfcore/
+Library/Caches/FamilyCircle/
+Library/Caches/com.apple.homed/
+Library/Caches/com.apple.findmy.fmipcore/
+Library/Caches/com.apple.ap.adprivacyd/
+.Trash/
+
+# Ignore embedded git repositories
+Desktop/GitHub/metamask_testapp
+Desktop/GitHub/portforio
+Desktop/GitHub/リファレンスコード
+
+# Ignore specific file
+Library/Application Support/Google/Chrome/Default/Service Worker/ScriptCache/060a0d7ad86f1431_0
